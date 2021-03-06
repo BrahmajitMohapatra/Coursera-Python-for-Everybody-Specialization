@@ -10,7 +10,7 @@ Specialization includes following courses:
 2. [Python Data Structures](https://github.com/BrahmajitMohapatra/Coursera-Python-for-Everybody-Specialization/tree/main/Course_2_Python_Data_Structures)
 3. [Using python to Access Web Data](https://github.com/BrahmajitMohapatra/Coursera-Python-for-Everybody-Specialization/tree/main/Course_3_Using_Python_to_Acess_Web_Data)
 4. [Using Databases with Python](https://github.com/BrahmajitMohapatra/Coursera-Python-for-Everybody-Specialization/tree/main/Course_4_Using_Databases_with_Python)
-5. [Capstone: Retrieving Processing and Visualizing Data with Python](https://github.com/BrahmajitMohapatra/Coursera-Python-for-Everybody-Specialization/tree/main/Course_5_Capstone_Retrieving_Processing_and_Visualizing_Data_with_Python)
+5. [Capstone: Retrieving Processing and Visualizing Data with Python](https://github.com/BrahmajitMohapatra/Coursera-Python-for-Everybody-Specialization/tree/main/Course_5_Capstone_Python_Quiz)
 
 
 > [Study Materials](https://github.com/BrahmajitMohapatra/Coursera-Python-for-Everybody-Specialization/upload/main/Study%20Materials)
